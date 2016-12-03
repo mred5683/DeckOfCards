@@ -1,0 +1,6 @@
+C:\Programming\C# Programs\Personal\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+C:\Programming\C# Programs\Personal\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe
+C:\Programming\C# Programs\Personal\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.pdb
+C:\Programming\C# Programs\Personal\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.exe
+C:\Programming\C# Programs\Personal\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
+C:\Programming\C# Programs\Personal\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
